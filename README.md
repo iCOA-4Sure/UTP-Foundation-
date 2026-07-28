@@ -49,20 +49,20 @@ When an AI agent needs access to customer data, three gaps exist:
 
 CORE INNOVATION: AUDIT-FIRST, NOT ENFORCEMENT-FIRST
 
-Traditional API security assumes humans make reasonable decisions:
-"Grant scope. Human honors it."
+✅ Traditional API security assumes humans make reasonable decisions:
+   "Grant scope. Human honors it."
 
-AI agents are different. Their understanding can drift. UTP handles this via:
+✅ AI agents are different. Their understanding can drift. UTP handles this via:
 
-Explicit Authorization — Agents request specific actions (READ, WRITE, DELETE), not vague intents
+✅ Explicit Authorization — Agents request specific actions (READ, WRITE, DELETE), not vague intents
 
-Multi-Signal Evaluation — 9 independent stages evaluate the request (not a single probabilistic guess)
+✅ Multi-Signal Evaluation — 9 independent stages evaluate the request (not a single probabilistic guess)
 
-Immutable Audit Trail — Every decision sealed with timestamps, actor identity, and stage-by-stage findings
+✅ Immutable Audit Trail — Every decision sealed with timestamps, actor identity, and stage-by-stage findings
 
-Auto-Revocation — If agent violates scope, UTP auto-revokes and logs why
+✅ Auto-Revocation — If agent violates scope, UTP auto-revokes and logs why
 
-Compliance Proof — Audit trail proves to regulators you authorized, logged, and revoked appropriately
+✅ Compliance Proof — Audit trail proves to regulators you authorized, logged, and revoked appropriately
 
 ---
 
