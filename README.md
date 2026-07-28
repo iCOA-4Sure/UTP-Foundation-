@@ -1,7 +1,7 @@
 Universal Transfer Protocol (UTP)
 Open Standard for Auditable Agent Authorization in Regulated Industries
 
-![UTP Badge](https://img.shields.io/badge/UTP-v1.0-blue) ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green) ![Status: Production](https://img.shields.io/badge/Status-Production-brightgreen) Status: Production
+![UTP Badge](https://img.shields.io/badge/UTP-v1.0-blue) ![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green) ![Status: Production](https://img.shields.io/badge/Status-Production-brightgreen) 
 
 ---
 
