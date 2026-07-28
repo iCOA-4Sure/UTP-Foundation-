@@ -140,9 +140,6 @@ Every domain defines its own Action Code set, but they map to these categories:
 - `LOG` — Log access
 - `CFG` — Configure policies
 
-**Classification (Income, Expense, Asset, etc.)**
-- [See full accounting Action Code dictionary in PART 2 of original iCOA spec — these map directly to the 47 codes]
-
 ### Healthcare Domain Action Codes (Example)
 
 **Read Actions**
@@ -712,4 +709,4 @@ This specification is **open-source and community-driven**:
 
 ---
 
-**For questions, contributions, or domain-specific extensions, visit https://utp.io or https://github.com/utp-foundation/**
+**For questions, contributions, or domain-specific extensions, visit or https://github.com/utp-foundation/** or Email: rmcmillan6@ivytech.edu
