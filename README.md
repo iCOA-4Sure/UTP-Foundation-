@@ -481,7 +481,7 @@ If you reference UTP in academic work, standards, or publications:
 
 Raheem McMillan (iCOA Labs). "Universal Transfer Protocol (UTP): 
 Auditable Authorization for AI Agents in Regulated Industries." 
-Specification v1.0, July 2026. https://utp.io
+Specification v1.0, July 2026. 
 
 ---
 
