@@ -250,7 +250,7 @@ Instead, we open-sourced it because:
 
 ## Who Built This?
 
-This specification originated from iCOA Labs, which built and operates the first production implementation of UTP in financial transaction classification (45M+ transactions, millions of dollars in advisory relationships).
+This specification originated from iCOA Labs, which built and operates the first production implementation of UTP in (Authentify) Agent Authorization in Beta, and iCOA Pro, transaction classification in accounting software. Currently in development. 
 
 The framework is ready for community input and pilot testing.
 
@@ -278,7 +278,7 @@ UTP is domain-agnostic. The financial domain profile is published. We're working
 - Travel (booking, itinerary management, cancellations)
 - Insurance (claims, underwriting, policy access)
 
-Interested? Join us at https://utp.io.
+Interested? Email: Rmcmillan6@ivytech.edu
 
 ### For Banks & Fintechs
 
@@ -306,7 +306,6 @@ And we're inviting you to join us in making agent-safe open finance the default.
 ---
 
 **For questions, feedback, or to get involved:**
-- Spec: https://utp.io/spec
 - GitHub: https://github.com/utp-foundation
-- Email: hello@utp.io
+- Email: rmcmillan6@ivytech.edu
 - FDX: input@financialdataexchange.org
