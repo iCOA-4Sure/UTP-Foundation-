@@ -109,7 +109,7 @@ Be respectful, inclusive, and constructive. We value:
 
 Do not open a public issue for security vulnerabilities.
 
-Email security@utp.io with:
+Email rmcmillan6@ivytech.edu with:
 - Description of the vulnerability
 - Steps to reproduce (if applicable)
 - Potential impact
@@ -158,7 +158,7 @@ Contributors are recognized in:
 ## Questions?
 
 - GitHub Issues/Discussions — For spec or implementation questions
-- Email — hello@utp.io
+- Email — rmcmillam6@ivytech.edu
 - FDX — input@financialdataexchange.org (for standards alignment questions)
 
 ---
